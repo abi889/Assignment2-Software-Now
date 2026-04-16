@@ -23,7 +23,6 @@ All development, testing, and version tracking were managed through GitHub as re
 - Issue tracking for bugs and improvements
 - Collaborative code reviews via pull requests
 
-All development, testing, and version tracking were managed through GitHub as required.
 
 ---
 
