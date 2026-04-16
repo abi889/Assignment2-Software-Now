@@ -1,8 +1,7 @@
-#Test Update
-#Assignment 2- Software Now
+# Assignment 2- Software Now
 
 
-##Group Members
+# #Group Members
 
 Abichal Paudel(s404281)
 Anuj Jung Karki(s403813)
@@ -10,7 +9,7 @@ Krishna Dev Bhatta(s405010)
 Diwan Paija(s396523)
 
 
-##Overview
+## Overview
  This repository contains the complete solution for Assignment 2,
  covering two major programming tasks:
  
@@ -19,16 +18,16 @@ Diwan Paija(s396523)
 All development, testing, and version tracking were managed through GitHub as required.
 
 
-##Question 1: Encryption & Decryption System
+## Question 1: Encryption & Decryption System
  
-###Objective:
+### Objective:
  Develop a program that:
  1. Reads text from raw_text.txt.
  2. Encrypts it using a rule-based shifting algorithm.
  3. Decrypts the encrypted text.
  4. Verifies correctness by comparing original and decrypted outputs
 
-###Features:
+### Features:
  - Custom dual-shift encryption logic using shift1 and shift2.
  - Case-sensitive transformations:
    - Lowercase and uppercase handled differently.
@@ -37,19 +36,19 @@ All development, testing, and version tracking were managed through GitHub as re
    - raw_text.txt → encrypted_text.txt → decrypted_text.txt.
  - Built-in verification system
 
-###Files:
+### Files:
 question1.py
 raw_text.txt
 encrypted_text.txt
 decrypted_text.txt
 
 
-##Question 2: Expression Evaluator
+## Question 2: Expression Evaluator
 
-###Objective:
+### Objective:
   Build a mathematical expression evaluator using recursive descent parsing.
 
-###Features:
+### Features:
  - Supports:
    - Addition(+)
    - Subtraction(-)
@@ -68,39 +67,39 @@ decrypted_text.txt
    - Tokens
    - Result
 
-###Files:
+### Files:
 evaluator.py
 sample_input.txt
 output.txt
 
-###Output Format:
+### Output Format:
  Each expression generates:
   - Input
   - Tree
   - Tokens
   - Result
 
-##How to Run?
-###Question1:
+## How to Run?
+### Question1:
  </>Bash
   cd Q1
   python question1.py
 
-###Question2:
-  </>Bash
+### Question2:
+  ```bash
   cd Q2
   python evaluator.py
 
 
-##Technologies Used:
+## Technologies Used:
  - Python 3
  - File Handling
  - Recursive Descent Parsing
  - Git & GitHub for version control
 
-##Repository Link:
+## Repository Link:
   It has been added in github_link.txt as required.
 
-##Contribution:
+## Contribution:
  This assignment was collaboratively completed by all group members.
  Each member contributed to design, implementation, testing, and debugging across both questions.
