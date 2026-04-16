@@ -11,8 +11,17 @@
 ## Overview
 This repository contains the complete solution for Assignment 2 covering two major programming tasks:
 
-- Question 1 – Text Encryption & Decryption System  
-- Question 2 – Mathematical Expression Evaluator (Recursive Descent Parsing)
+- **Question 1 – Text Encryption & Decryption System**  
+  Implements a rule-based character shifting algorithm that encrypts text from `raw_text.txt` into `encrypted_text.txt`, then fully decrypts it back to `decrypted_text.txt`. The system preserves case sensitivity (uppercase letters shift differently from lowercase) and leaves all non-alphabetic characters (digits, punctuation, spaces) untouched. A built-in verification step automatically confirms that decrypted text matches the original.
+
+- **Question 2 – Mathematical Expression Evaluator (Recursive Descent Parsing)**  
+  Builds a recursive descent parser that tokenizes mathematical expressions, constructs a parse tree following operator precedence rules, and evaluates the result. The parser supports nested parentheses, unary minus operators, and handles edge cases like division by zero or malformed expressions. Output includes the token stream, parse tree structure, and numeric result for each expression from `sample_input.txt`.
+
+All development, testing, and version tracking were managed through GitHub as required. The repository includes:
+- Full commit history with descriptive messages
+- Branching strategy for feature development
+- Issue tracking for bugs and improvements
+- Collaborative code reviews via pull requests
 
 All development, testing, and version tracking were managed through GitHub as required.
 
