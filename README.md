@@ -114,3 +114,15 @@ The GitHub repository link has been provided in `github_link.txt` as required.
 ## Contribution
 This assignment was collaboratively completed by all group members.  
 Each member contributed to design, implementation, testing, and debugging across both questions.
+
+---
+
+## Project Structure
+
+The repository is organised into two main parts:
+
+- Q1: Text Encryption & Decryption System  
+  Contains files for reading raw text, encrypting, decrypting, and verification.
+
+- Q2: Expression Evaluator  
+  Contains the recursive descent parser and sample input file for evaluation.
