@@ -68,6 +68,7 @@ Build a mathematical expression evaluator using recursive descent parsing techni
   - Unary negation (e.g., -5, -(3+2))
   - Correct operator precedence
 - Detects invalid expressions
+- Designed to handle common edge cases and invalid inputs
 
 ### Outputs
 - Parse Tree
