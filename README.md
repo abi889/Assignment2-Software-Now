@@ -1,10 +1,10 @@
 # Assignment 2 – Software Now
 
 ## Group Members
-- Abichal Paudel (s404281)
-- Anuj Jung Karki (s403813)
-- Krishna Dev Bhatta (s405010)
-- Diwan Paija (s396523)
+- Abichal Paudel (S404281)
+- Anuj Jung Karki (S403813)
+- Krishna Dev Bhatta (S405010)
+- Diwan Paija (S396523)
 
 ---
 
@@ -87,7 +87,7 @@ Build a mathematical expression evaluator using recursive descent parsing techni
 ### Question 1
 ```bash
 cd Q1
-python question1.py
+python3 question1.py
 ```
 
 ### Question 2
