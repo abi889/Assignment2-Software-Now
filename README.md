@@ -10,6 +10,7 @@
 
 ## Overview
 This repository contains the complete solution for Assignment 2 covering two major programming tasks:
+This project demonstrates practical implementation of file handling, algorithm design, and parsing techniques using Python. It focuses on both data transformation and structured expression evaluation.
 
 - **Question 1 – Text Encryption & Decryption System**  
   Implements a rule-based character shifting algorithm that encrypts text from `raw_text.txt` into `encrypted_text.txt`, then fully decrypts it back to `decrypted_text.txt`. The system preserves case sensitivity (uppercase letters shift differently from lowercase) and leaves all non-alphabetic characters (digits, punctuation, spaces) untouched. A built-in verification step automatically confirms that decrypted text matches the original.
