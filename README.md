@@ -55,7 +55,7 @@ Develop a program that:
 ## Question 2: Expression Evaluator
 
 ### Objective
-Build a mathematical expression evaluator using recursive descent parsing.
+Build a mathematical expression evaluator using recursive descent parsing techniques.
 
 ### Features
 - Supports:
